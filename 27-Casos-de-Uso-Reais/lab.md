@@ -1,4 +1,4 @@
-# Lab Prático — Casos de Uso Reais: SNS Fan-out + Step Functions + EventBridge (Módulo 17)
+# Lab Prático — Casos de Uso Reais: SNS Fan-out + Step Functions + EventBridge (Módulo 27)
 
 > **Região:** us-east-1 | **Custo estimado:** ~$0.01 (Step Functions Express, SNS, SQS — volumes de lab)  
 > **Pré-requisitos:** AWS CLI configurado, Terraform >= 1.5
@@ -434,3 +434,7 @@ rm -f /tmp/lambda_estoque.zip /tmp/lambda_email.zip
 - **Step Functions Express:** ideal para alta frequência, < 5min; Standard: long-running, exatamente uma vez
 - **Retry + Catch:** Step Functions gerencia resiliência sem código de retry na Lambda
 - **Choice State:** equivalente a `if/else` no workflow — ramifica baseado em dados da execução
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

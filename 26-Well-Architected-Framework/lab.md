@@ -1,4 +1,4 @@
-# Lab Prático — Well-Architected Framework: WAT + Trusted Advisor + Cost Explorer (Módulo 16)
+# Lab Prático — Well-Architected Framework: WAT + Trusted Advisor + Cost Explorer (Módulo 26)
 
 > **Região:** us-east-1 | **Custo estimado:** ~$0 (Well-Architected Tool, Trusted Advisor e Cost Explorer são gratuitos)  
 > **Pré-requisitos:** AWS CLI configurado, conta com acesso à console
@@ -334,3 +334,7 @@ echo "Limpeza concluída. Well-Architected Tool, Access Analyzer deletados."
 - **Cost Explorer:** análise por serviço, tag, granularidade diária/mensal, forecasting
 - **Savings Plans:** escolha entre COMPUTE_SP (mais flexível) e EC2_SP (mais barato para tipo fixo)
 - **IAM Access Analyzer:** detecta recursos com acesso externo não intencional (S3, SQS, Lambda, etc.)
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

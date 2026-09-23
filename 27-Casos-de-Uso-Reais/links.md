@@ -1,4 +1,4 @@
-# Links e Recursos — Casos de Uso Reais (Módulo 17)
+# Links e Recursos — Casos de Uso Reais (Módulo 27)
 
 ## Documentação Oficial AWS
 
@@ -54,3 +54,7 @@
 | Event Sourcing | Imutabilidade de eventos | DynamoDB Streams, Kinesis |
 | Strangler Fig | Migração incremental | API Gateway, ALB |
 | CQRS | Separação leitura/escrita | DynamoDB + ElastiCache |
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

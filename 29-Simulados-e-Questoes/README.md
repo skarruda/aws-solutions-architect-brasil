@@ -1,4 +1,23 @@
-# Módulo 19 — Simulados e Questões
+# Módulo 29 — Simulados e Questões
+
+## Onde está cada conteúdo
+
+- Este arquivo (`README.md`) contém o **Simulado Completo 1** com 65 questões no estilo SAA-C03.
+- O arquivo [`questoes.md`](./questoes.md) contém **questões complementares de estratégia de prova**, o **Simulado Completo 2** e o **Simulado Completo 3**.
+- O arquivo [`mini-simulados-por-dominio.md`](./mini-simulados-por-dominio.md) contém 4 mini-simulados de 20 questões: segurança, resiliência, performance e custo.
+- O arquivo [`caderno-de-erros.md`](./caderno-de-erros.md) traz um template reutilizável para transformar erros em revisão espaçada.
+- O arquivo [`reta-final-saa-c03.md`](./reta-final-saa-c03.md) organiza os planos de 14 dias e 7 dias antes da prova.
+
+## Índice rápido de revisão final
+
+| Objetivo | Arquivo | Como usar |
+|---|---|---|
+| Simulado completo inicial | [README.md](./README.md#simulado-completo-1--65-questões) | Fazer cronometrado, revisar os erros e registrar no caderno. |
+| Simulado completo 2 | [questoes.md](./questoes.md#simulado-completo-2--65-questões) | Fazer após corrigir o Simulado 1. |
+| Simulado completo 3 | [questoes.md](./questoes.md#simulado-completo-3--65-questões) | Usar como validação final depois do caderno de erros. |
+| Diagnóstico por domínio | [mini-simulados-por-dominio.md](./mini-simulados-por-dominio.md) | Usar quando um domínio ficar abaixo de 75%. |
+| Caderno de erros | [caderno-de-erros.md](./caderno-de-erros.md) | Preencher após cada simulado com regra de decisão para prova. |
+| Reta final | [reta-final-saa-c03.md](./reta-final-saa-c03.md) | Seguir nos últimos 14 ou 7 dias antes do exame. |
 
 ## Estratégia para o Exame SAA-C03
 
@@ -349,3 +368,7 @@
 | 11 | B | 24 | DAX | 37 | AssumeRole | 50 | GW Endpoint | 63 | Lambda |
 | 12 | B | 25 | Service Conn | 38 | Secrets Mgr | 51 | S3 Logging | 64 | VPC Endpoint |
 | 13 | A | 26 | Container | 39 | CMK | 52 | Termination P | 65 | Multi-AZ prod |
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

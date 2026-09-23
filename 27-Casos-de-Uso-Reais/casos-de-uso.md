@@ -1,4 +1,4 @@
-# Casos de Uso Reais — Arquiteturas Multi-Serviço (Módulo 17)
+# Casos de Uso Reais — Arquiteturas Multi-Serviço (Módulo 27)
 
 ## Caso 1 — Plataforma SaaS Multi-Tenant com Isolamento por Tier
 
@@ -210,3 +210,7 @@ Custom: Lambda → CloudWatch Metrics (mensagens/min, respostas enquete)
 | Interatividade | Nativa (timed metadata, chat) | Limitada |
 | Custo | Por hora + GB | Por hora (mais caro para escala) |
 | Quando usar | Lives interativas simples | Broadcasting broadcast TV |
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

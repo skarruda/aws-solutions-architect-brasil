@@ -1,4 +1,4 @@
-# Módulo 16 — AWS Well-Architected Framework
+# Módulo 26 — AWS Well-Architected Framework
 
 ## Os 6 Pilares
 
@@ -180,3 +180,7 @@ Ferramenta gratuita para revisar workloads contra os 6 pilares:
 - Para Cost Optimization: Compute Optimizer = rightsizing; Cost Explorer = análise no tempo; Budgets = alertas proativos
 - Security "shift left": aplicar segurança no início do ciclo de desenvolvimento, não apenas antes do deploy
 - "Least privilege" é um princípio de segurança: cada IAM entity tem apenas as permissões mínimas necessárias
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

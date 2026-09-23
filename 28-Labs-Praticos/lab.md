@@ -1,4 +1,4 @@
-# Lab Prático — Diagnóstico e Debugging: Ambientes Quebrados (Módulo 18)
+# Lab Prático — Diagnóstico e Debugging: Ambientes Quebrados (Módulo 28)
 
 > **Região:** us-east-1 | **Custo estimado:** ~$0.02  
 > **Pré-requisitos:** AWS CLI configurado, Docker (opcional), Python 3.8+
@@ -373,3 +373,7 @@ rm -f /tmp/lambda_debug.zip /tmp/teste_403.txt /tmp/download_403.txt \
 - **DynamoDB throttle:** WCU/RCU excedido → logs CloudWatch `WriteThrottleEvents`; solução: on-demand ou Auto Scaling
 - **ECS stoppedReason:** fonte primária de diagnóstico; sempre checar `exitCode` e CloudWatch Logs do container
 - **Debugging mindset:** reproduzir → confirmar nos logs → identificar causa raiz → aplicar menor mudança → validar
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

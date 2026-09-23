@@ -1,4 +1,4 @@
-# Casos de Uso Reais — Labs Práticos (Módulo 18)
+# Casos de Uso Reais — Labs Práticos (Módulo 28)
 
 ## Caso 1 — Debug: Lambda não consegue acessar RDS
 
@@ -245,3 +245,7 @@ PASSO 3 — Testar localmente:
 docker run -e DATABASE_URL=... -e SECRET=... minha-imagem:latest
 → Reproduzir erro localmente é muito mais rápido
 ```
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

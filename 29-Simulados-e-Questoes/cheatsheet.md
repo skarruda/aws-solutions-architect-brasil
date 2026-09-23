@@ -1,4 +1,4 @@
-# Cheatsheet — Simulados e Questões (Módulo 19)
+# Cheatsheet — Simulados e Questões (Módulo 29)
 
 ## Estrutura do Exame SAA-C03
 
@@ -179,3 +179,7 @@
 | "questão pede mínimo custo + acesso raro a arquivos" | S3 Glacier Deep Archive |
 | "questão pede mínimo custo + acesso imprevisível" | S3 Intelligent-Tiering |
 | "VPC subnets: quantos IPs AWS reserva?" | 5 (primeiros 4 + último) |
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

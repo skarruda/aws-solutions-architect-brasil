@@ -1,4 +1,4 @@
-# Casos de Uso Reais — Well-Architected Framework (Módulo 16)
+# Casos de Uso Reais — Well-Architected Framework (Módulo 26)
 
 ## Caso 1 — Revisão Well-Architected de Startup em Crescimento
 
@@ -239,3 +239,7 @@ Depois: 65 toneladas CO2e/ano
 Redução: 35% (supera meta de 30%)
 ROI Financeiro: -$15K/mês em custos operacionais (Graviton é mais barato)
 ```
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

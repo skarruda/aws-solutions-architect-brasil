@@ -1,4 +1,4 @@
-# Flashcards — Módulo 18: Labs Práticos
+# Flashcards — Módulo 28: Labs Práticos
 
 > **Formato:** P = Pergunta | R = Resposta  
 > **Total:** 25 flashcards
@@ -425,3 +425,7 @@ def lambda_handler(event, context):
     # usar creds['username'] e creds['password']
 ```
 Lambda Role precisa de `secretsmanager:GetSecretValue`.
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

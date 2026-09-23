@@ -1,10 +1,46 @@
 # 📚 AWS Certified Solutions Architect – Associate (SAA-C03)
 
-## 🚦 Por onde começar
+<p align="center">
+  <img src="./foto-thiago-cardoso.jpg" alt="Thiago Cardoso" width="180" style="border-radius: 12px;" />
+</p>
+
+<p align="center"><strong>Criado por Thiago Cardoso</strong><br/>
+<a href="https://www.linkedin.com/in/analyticsthiagocardoso">LinkedIn</a></p>
+
+---
+
+## ☕ Apoie este Projeto
+
+Se este conteúdo ajudou nos seus estudos para a certificação **AWS Solutions Architect Associate**, considere apoiar com um café! O projeto é 100% gratuito e qualquer contribuição ajuda a manter o material atualizado.
+
+### Doação via Pix
+
+Você pode usar a chave aleatória abaixo ou escanear o QR Code:
+
+**Chave Pix (Copia e Cola):**
+`c8ca2085-c329-4712-8da9-397d10b41cf5`
+
+<p align="center">
+<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/351596f0-5896-404b-ab19-d55a661d5b9b" />
+</p>
+
+---
+<h2 align="center">Star History</h2>
+
+<p align="center">
+  <a href="https://www.star-history.com/#Thiago-code-lab/aws-solutions-architect-brasil&Date">
+    <img
+      src="https://api.star-history.com/svg?repos=Thiago-code-lab/aws-solutions-architect-brasil&type=Date"
+      alt="Star History Chart"
+    />
+  </a>
+</p>
+
+ ## 🚦 Por onde começar
 
 - **Trilha para iniciantes (do zero):** siga [Módulo 01](./01-Introducao-SAA-C03/README.md) → [Módulo 02](./02-IAM-e-Seguranca/README.md) → [Módulo 04](./04-Computacao-EC2/README.md) → [Módulo 05](./05-Alta-Disponibilidade-e-Escalabilidade/README.md) → [Módulo 06](./06-Amazon-S3-e-Armazenamento/README.md) → [Módulo 08](./08-VPC-e-Redes/README.md) → [Módulo 10](./10-Banco-de-Dados/README.md) e complete na ordem até [Módulo 31](./31-Recursos-e-Links/README.md), incluindo os labs correspondentes em cada semana.
 - **Revisão rápida:** faça revisão por [cheatsheets](./01-Introducao-SAA-C03/cheatsheet.md), [flashcards](./01-Introducao-SAA-C03/flashcards.md) e [questões](./29-Simulados-e-Questoes/README.md), priorizando módulos com maior peso no exame (segurança, resiliência, performance e custo).
-- **Reta final / últimos 14 dias:** concentre em [05](./05-Alta-Disponibilidade-e-Escalabilidade/README.md), [06](./06-Amazon-S3-e-Armazenamento/README.md), [08](./08-VPC-e-Redes/README.md), [10](./10-Banco-de-Dados/README.md), [13](./13-DNS-Route53-e-CloudFront/README.md), [14](./14-Desacoplamento-SQS-SNS-EventBridge/README.md), [17](./17-Serverless-Lambda-API-Gateway/README.md), [22](./22-Recuperacao-de-Desastres-e-Continuidade/README.md), [26](./26-Well-Architected-Framework/README.md) e finalize com [simulados](./29-Simulados-e-Questoes/README.md).
+- **Reta final / últimos 14 dias:** concentre em [05](./05-Alta-Disponibilidade-e-Escalabilidade/README.md), [06](./06-Amazon-S3-e-Armazenamento/README.md), [08](./08-VPC-e-Redes/README.md), [10](./10-Banco-de-Dados/README.md), [13](./13-DNS-Route53-e-CloudFront/README.md), [14](./14-Desacoplamento-SQS-SNS-EventBridge/README.md), [17](./17-Serverless-Lambda-API-Gateway/README.md), [22](./22-Recuperacao-de-Desastres-e-Continuidade/README.md), [26](./26-Well-Architected-Framework/README.md) e finalize com o hub do [Módulo 29](./29-Simulados-e-Questoes/README.md): simulados completos, mini-simulados por domínio, caderno de erros e plano de reta final.
 
 > Repositório completo de estudos em Português do Brasil para quem quer passar no exame com entendimento real de arquitetura na AWS.
 
@@ -127,7 +163,7 @@ Além do GitHub Pages, o repositório inclui um portal de estudos em arquivo ún
 | 26 | Well-Architected Framework | Todos os domínios | ✅ Completo | [README](./26-Well-Architected-Framework/README.md) |
 | 27 | Casos de Uso Reais | Todos os domínios | ✅ Completo | [README](./27-Casos-de-Uso-Reais/README.md) |
 | 28 | Labs Práticos | Prática | ✅ Completo | [README](./28-Labs-Praticos/README.md) |
-| 29 | Simulados e Questões | Todos os domínios | ✅ Completo | [README](./29-Simulados-e-Questoes/README.md) |
+| 29 | Simulados, Questões e Reta Final | Todos os domínios | ✅ Completo | [README](./29-Simulados-e-Questoes/README.md) |
 | 30 | Glossário | Revisão | ✅ Completo | [README](./30-Glossario/README.md) |
 | 31 | Recursos e Links | Revisão | ✅ Completo | [README](./31-Recursos-e-Links/README.md) |
 
@@ -163,7 +199,7 @@ Além do GitHub Pages, o repositório inclui um portal de estudos em arquivo ún
 | [26 - Well-Architected Framework](./26-Well-Architected-Framework/README.md) | Semana 9 | Sim | Sim | Sim | Sim |
 | [27 - Casos de Uso Reais](./27-Casos-de-Uso-Reais/README.md) | Semana 9 | Sim | Sim | Sim | Sim |
 | [28 - Labs Práticos](./28-Labs-Praticos/README.md) | Semana 9 | Sim | Sim | Sim | Sim |
-| [29 - Simulados e Questões](./29-Simulados-e-Questoes/README.md) | Semana 9 | Sim | Sim | Sim | Sim |
+| [29 - Simulados, Questões e Reta Final](./29-Simulados-e-Questoes/README.md) | Semana 9 | Sim | Sim | Sim | Sim |
 | [30 - Glossário](./30-Glossario/README.md) | Semana 9 | Sim | Sim | Sim | Sim |
 | [31 - Recursos e Links](./31-Recursos-e-Links/README.md) | Semana 9 | Sim | Sim | Sim | Sim |
 

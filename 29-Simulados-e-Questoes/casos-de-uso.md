@@ -1,4 +1,4 @@
-# Casos de Uso Reais — Simulados e Questões (Módulo 19)
+# Casos de Uso Reais — Simulados e Questões (Módulo 29)
 
 ## Caso 1 — Analisando uma Questão Difícil sobre Alta Disponibilidade
 
@@ -178,3 +178,7 @@ LIÇÕES DA SIMULAÇÃO:
 5. "Máxima disponibilidade" → Multi-AZ + Multi-Region + Auto Scaling
 6. Nunca gastar > 3 minutos em uma questão — marcar e seguir
 ```
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

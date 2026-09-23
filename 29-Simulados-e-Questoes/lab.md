@@ -1,4 +1,4 @@
-# Lab Prático — Simulados e Revisão Final: Setup Ambiente de Estudos (Módulo 19)
+# Lab Prático — Simulados e Revisão Final: Setup Ambiente de Estudos (Módulo 29)
 
 > **Região:** us-east-1 | **Custo estimado:** ~$0.01 (DynamoDB on-demand, Lambda minimal)  
 > **Pré-requisitos:** AWS CLI configurado, Python 3.8+, pip
@@ -310,3 +310,7 @@ rm -f quiz.py
 - CloudWatch Dashboards via CLI com JSON body — codificável, versionável em Git
 - Padrão de estudo active recall: exposição → ocultação → tentativa → feedback
 - No exame: **70%+ em simulados Tutorials Dojo = alta probabilidade de aprovação no SAA-C03**
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+

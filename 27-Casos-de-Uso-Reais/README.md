@@ -1,4 +1,4 @@
-# Módulo 17 — Casos de Uso Reais: Arquiteturas Multi-Serviço
+# Módulo 27 — Casos de Uso Reais: Arquiteturas Multi-Serviço
 
 ## Sobre Este Módulo
 
@@ -207,3 +207,7 @@ Consumo:
 - "Processamento assíncrono" → SQS + Lambda ou EventBridge + Lambda
 - "Econômico para cargas variáveis" → Lambda (serverless), Fargate On-Demand, Spot ASG
 - "Segurança em camadas" → WAF + Shield + SG + NACL + KMS + Macie
+
+---
+_Credito autoral: Thiago Cardoso - [LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso)_
+
